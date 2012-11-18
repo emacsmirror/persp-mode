@@ -491,5 +491,3 @@ named collections of buffers and window configurations."
 (provide 'persp-mode)
 
 ;;; persp-mode.el ends here
-
-x
